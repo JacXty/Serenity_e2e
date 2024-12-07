@@ -1,0 +1,15 @@
+starter/userinterfaces/CheckoutInterfaces.class
+starter/task/IngresarLogin.class
+starter/stepdefinitions/FillCheckoutFormDefinitions.class
+starter/task/AddProduct.class
+starter/runners/CucumberTestSuit.class
+starter/navigation/OpenPage.class
+starter/task/ChekoutForm.class
+starter/userinterfaces/AddProductsInterfaces.class
+starter/userinterfaces/LoginInterfaces.class
+starter/userinterfaces/FillCheckoutForm.class
+starter/navigation/NavegateTo.class
+starter/stepdefinitions/ParameterDefinitions.class
+starter/stepdefinitions/AddProductDefinitions.class
+starter/stepdefinitions/LoginDefinition.class
+starter/stepdefinitions/ViewCar.class
